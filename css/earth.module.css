@@ -1,12 +1,7 @@
-.earth_styles {
-    background-color: whitesmoke;
-    color: blue;
-}
-
 .earth_styles > h1 {
-    font-size: 60px;
+    color: #2a8442;
 }
 
-.earth_styles > h1, h2 {
+.earth_styles > h2 {
     color: #2a8442;
 }

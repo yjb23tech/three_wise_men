@@ -1,14 +1,7 @@
-.home_styles {
-    background-color: red;
-    color: white;
-}
-
-.home_styles > h1 {
-    color: purple;
-    font-size: 70px;
+.home_styles > h1, h2 {
+    color: silver
 }
 
 .home_styles > h2 {
-    color: orange;
-    font-size: 100px;
+    color: silver
 }

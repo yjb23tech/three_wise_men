@@ -1,5 +1,6 @@
-.mars_styles {
-    background-color: goldenrod;
-    color: silver;
+.mars_styles > h1, h2 {
+    color: #d33d1f;
 }
+
+
 
