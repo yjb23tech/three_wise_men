@@ -1,3 +1,5 @@
+import classes from "../css/home.module.css"
+
 const Home = () => {
     return (
         <div>

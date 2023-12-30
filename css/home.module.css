@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    font-weight: 900;
+}
+
+body {
+    background-color: red;
+    color: white;
+}
+
+h1 {
+    color: purple;
+    font-size: 70px;
+}
+
+h2 {
+    color: orange;
+    font-size: 100px;
+}
