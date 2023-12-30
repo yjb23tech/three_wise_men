@@ -1,4 +1,4 @@
-import classes from "../css/eath.module.css"
+import classes from "../css/earth.module.css"
 
 const Earth = () => {
     return (
