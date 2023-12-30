@@ -6,7 +6,7 @@ import Mars from "./pages/Mars.jsx"
 const App = () => {
     return (
         <div>
-            <Earth />
+            <Mars />
         </div>
     )
 }

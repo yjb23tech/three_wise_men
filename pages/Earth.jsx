@@ -2,7 +2,7 @@ import classes from "../css/earth.module.css"
 
 const Earth = () => {
     return (
-        <div>
+        <div className={`${classes.earth_styles}`}>
             <h1>Anstrum Labs</h1>
             <h2>Above It All</h2>
             <h3>Coming To A City Near You</h3>

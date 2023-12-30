@@ -1,19 +1,14 @@
-* {
-    box-sizing: border-box;
-    font-weight: 900;
-}
-
-body {
+.home_styles {
     background-color: red;
     color: white;
 }
 
-h1 {
+.home_styles > h1 {
     color: purple;
     font-size: 70px;
 }
 
-h2 {
+.home_styles > h2 {
     color: orange;
     font-size: 100px;
 }

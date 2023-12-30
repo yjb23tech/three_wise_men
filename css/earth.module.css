@@ -1,16 +1,12 @@
-* {
-    box-sizing: border-box;
-}
-
-body {
+.earth_styles {
     background-color: whitesmoke;
-    color: black;
+    color: blue;
 }
 
-h1 {
+.earth_styles > h1 {
     font-size: 60px;
 }
 
-h1, h2 {
+.earth_styles > h1, h2 {
     color: #2a8442;
 }
