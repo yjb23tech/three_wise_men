@@ -14,7 +14,6 @@ const App = () => {
                     <Route path="/mars" element={<Mars />} />
                 </Routes>
             </BrowserRouter>
-            <Mars />
         </div>
     )
 }
