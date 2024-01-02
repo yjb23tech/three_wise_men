@@ -12,6 +12,7 @@ const Home = () => {
             <Link to={`/mars`} >
                 <h3>Lord of War QP Skiii</h3>
                 <h2>Fukumean</h2>
+                <h3>Working in Scrimba</h3>
             </Link>
         </div>
     )
